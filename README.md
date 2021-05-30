@@ -3,7 +3,7 @@
 <p>Con el uso de los datos del api: https://pokeapi.co/ se creó una página web que simula el juego de Pokémon diseñado para fines de aprendizaje. 
 Este no es un juego oficial de Pokémon.</p> 
 
-<hi>Comenzando 🚀</h1>
+<h1>Comenzando 🚀</h1>
 
 <p>Para correr el juego se necesita descargar los elementos que se encuentran en este repositorio.
 Al momento de abrir el archivo index.html el juego iniciara.
