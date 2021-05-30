@@ -1,4 +1,4 @@
-Pokémon batalla de monstruos
+<h1>Pokémon batalla de monstruos<h1>
 
 Con el uso de los datos del api: https://pokeapi.co/ se creó una página web que simula el juego de Pokémon diseñado para fines de aprendizaje. 
 Este no es un juego oficial de Pokémon. 
